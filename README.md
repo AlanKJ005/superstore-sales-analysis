@@ -35,16 +35,16 @@ decision making.
 
 ## Screenshots
 ### Sales Overview
-![Sales Overview](page1_sales_overview.png)
+![Sales Overview](Page1_Sales_Overview.png)
 
 ### Regional Performance
-![Regional Performance](page2_regional_performance.png)
+![Regional Performance](Page2_Regional_Performance.png)
 
 ### Product Analysis
-![Product Analysis](page3_product_analysis.png)
+![Product Analysis](Page3_Product_Analysis.png)
 
 ### Customer Segments
-![Customer Segments](page4_customer_segments.png)
+![Customer Segments](Page4_Customer_Segments.png)
 
 ### Shipping Analysis
-![Shipping Analysis](page5_shipping_analysis.png)yy# superstore-sales-analysis
+![Shipping Analysis](Page5_Shipping_Analysis.png)yy# superstore-sales-analysis
